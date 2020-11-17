@@ -1,0 +1,42 @@
+.nav-girassol{
+    display: block !important; 
+    text-align: center !important;
+   
+}
+.logo{
+    margin-top: 0px !important; 
+    width: 120px !important; 
+    height: 120px !important;
+    background-image:url('/assets/img/sunflower.svg') !important; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+.logo-desc {
+    font-family: Tahoma, Geneva, sans-serif !important; 
+    font-weight: 100 !important; 
+    font-size: 25px !important;
+}
+.header-main{
+    background-image:url('/assets/img/bg-girassol.jpg') !important; 
+    background-size: cover; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 100;   
+}
+.title-main{
+    font-size: 36px; 
+    color: #FFFFFF !important;
+    float: none; 
+    opacity: 1;
+    font-size: 60px !important;
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+    
+}
+.title-main span{
+    background-color: rgba(33, 33, 33, 0.3);
+}
+.title-secondary span{
+    background-color: rgba(33, 33, 33, 0.3);
+    font-style: italic;
+}
