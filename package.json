@@ -1,0 +1,26 @@
+{
+  "name": "leo-sementes",
+  "version": "1.0.0",
+  "description": "Site De Campanha de Sementes do LEO Clube de Rio Negrinho.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
+    "animejs": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcNeidert/leo_semente.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcNeidert/leo_semente/issues"
+  },
+  "homepage": "https://github.com/AcNeidert/leo_semente#readme"
+}
