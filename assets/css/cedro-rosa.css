@@ -7,7 +7,7 @@
     margin-top: 0px !important; 
     width: 120px !important; 
     height: 120px !important;
-    background-image:url('assets/img/cedro2.svg') !important; 
+    background-image:url('../../assets/img/cedro2.svg') !important; 
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
@@ -18,7 +18,7 @@
     font-size: 25px !important;
 }
 .header-main{
-    background-image:url('assets/img/bg-cedro.jpg') !important; 
+    background-image:url('../../assets/img/bg-cedro.jpg') !important; 
     background-size: cover; 
     font-family: Arial, Helvetica, sans-serif; 
     font-weight: 100;   
